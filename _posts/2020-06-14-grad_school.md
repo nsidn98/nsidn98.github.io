@@ -19,7 +19,7 @@ by Eminem during the application submissions to listening [Don't You Worry Child
 when the rejection letters came in, until I received the acceptance letter from Massachusetts Institute of Technology. 
 
 ## Why this blog?
-I got admitted into a Masters program at MIT in the [AeroAstro Department](https://aeroastro.mit.edu/) (which I would try to convert to a PhD). My research interests include control and autonomy with a special focus on reinforcement learning. Along my journey, I have been helped by awesome mentors (seniors from my college, my research advisor, internship guides, professors and my family) and the only reason I got into this coveted university was because of their generosity in taking out time to help me with the applications. That is why I am writing this blog because I feel that this can help juniors who are thinking about applying. 
+I got admitted into a Masters program at MIT in the [AeroAstro Department](https://aeroastro.mit.edu/) (which I ~~would try to get it~~ converted to a PhD). My research interests include control and autonomy with a special focus on reinforcement learning. Along my journey, I have been helped by awesome mentors (seniors from my college, my research advisor, internship guides, professors and my family) and the only reason I got into this coveted university was because of their generosity in taking out time to help me with the applications. That is why I am writing this blog because I feel that this can help juniors who are thinking about applying. 
 
 Q: 'But there are a lot of blogs and guides which do the same thing. Then why do we need your blog?'.
 
@@ -158,6 +158,8 @@ Also, I would recommend at not looking at sample SoPs on the internet before wri
 
 The LaTeX template I used for my SoP can be found [here](https://tex.stackexchange.com/questions/150900/latex-coding-for-statement-of-purpose/150903#150903).
 
+**Update:** [Linking website](https://cs-sop.org/) with many publicly available SoPs of successful applicants. I have uploaded mine too over there:)
+
 ## Letters of Recommendations (LoRs)
 Another important factor in the applications process! A single strong LoR can actually change the admission committee's (adcom) view towards your applications and tip the scales towards your favour. Hence, it is quite important to ask the right people for LoRs. Generally, the adcom expects LoRs from people with whom you have worked quite closely and ideally for a considerable duration. Also, it is quite important to ask your (possible) recommenders whether they would be willing to give LoRs quite early (as early as August). It is also okay to take an LoR from a professor who has taught you more than one course or with whom you have had frequent interactions. It is quite important that they should be able to write about your research capabilities. During my application semester, I was sure about two of my recommenders who had agreed to give me LoRs. The first one was a professor with whom I had worked on a project for a whole year. The second one was from my research internship guide. I wasn't sure about my third recommender. Fortunately, during that semester, I was taking a graduate-level course which only a handful of people were taking at that time. This course had a research project as a part of the course evaluation. As the class strength was quite small I could have frequent interactions with the professor to discuss topics related to the course. Hence, I asked the course professor for my third and final LoR quite early into the semester. Initially, he told me that he would just be able to write about my class performance in the letter and not much about my research capabilities. But as the course, as well as the research project progressed, I requested him to start writing the letter after the final project presentation so that he had something to write about my research acumen. 
 
@@ -244,3 +246,6 @@ A list of other blogs and documents I found useful during my application process
 * Philip Guo's [Website](http://www.pgbovine.net/PhD-application-essay-examples.htm) containing SoPs of his students. (I recommend reading this after your draft of SoP is finished)
 * An excellent [blog](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html) by Katherine Lee and Ben Eysenbach on writing cover letters for residency programs.
 * [Blog](https://timdettmers.com/2018/11/26/phd-applications/) by Tim Dettmers on the PhD application process.
+* [Website](https://cs-sop.org/) with many openly available SoPs.
+* List of application [fees Waiver](https://github.com/KaiserWhoLearns/CS-PhD-Application-fee-waivers).
+* A fairly comprehensive [compilation](https://github.com/shaily99/advice) of advice about graduate school. 
