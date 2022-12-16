@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* SM, Aeronautics and Astronautics, Massachusetts Institute of Technology (Expected 2022)
+* PhD, Aeronautics and Astronautics, Massachusetts Institute of Technology, (Expected 2025)
+* SM, Aeronautics and Astronautics, Massachusetts Institute of Technology, 2022
 * B.Tech, Electrical Engineering, Indian Institute of Technology Madras, 2020
 
 Work experience
 ======
 * Fall 2020-Present: Graduate Research Assistant
   * DINaMo Lab, Massachusetts Institute of Technology
-  * Duties included: Using reinforcement learning for scheduling problems; Fairness-centric control of large-scale mixed-competitive multiagent navigation systems.
+  * Duties included: Working on multi-agent reinforcement learning for scaling autonomous navigation to large systems; multi-objective reinforcement learning for mixed competitive-cooperative settings.
+  * Devised reinforcement learning methods (including hybrid approach of integer programming and reinfocement learning) for combinatorial problems like crew-scheduling, etc.
   * Advisor: [Prof. Hamsa Balakrishnan](https://www.mit.edu/~hamsa/index.html)
 
 * Summer 2019: Research Intern
@@ -40,6 +42,7 @@ Work experience
 Skills
 ======
 * Reinforcement Learning
+* Graph Learning
 * Python
   * PyTorch
   * TensorFlow
@@ -49,12 +52,11 @@ Skills
 Relevant Coursework
 ======
 * Visual Navigation for Autonomous Vehicles
-* Representation, Inference and Reasoning in AI 
 * Computational Sensorimotor Learning
 * Intelligent Robotic Manipulation
 * Underactuated Robotics
 * Principles of Autonomy and Decision Making
-* Reinforcement Learning, 
+* Reinforcement Learning
 * Advanced Topics in Artificial Intelligence
 
 Publications
