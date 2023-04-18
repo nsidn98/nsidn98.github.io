@@ -1,6 +1,6 @@
 ---
 title: "Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation"
-collection: toappear
+collection: underreview
 permalink: /publication/informarl
 date: 2023-04-22
 venue: 'Under Review'
