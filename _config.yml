@@ -87,7 +87,7 @@ author:
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=XcgZhMwAAAAJ" #"http://yourfullgooglescholarurl.com"
   email            : "sidnayak@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
