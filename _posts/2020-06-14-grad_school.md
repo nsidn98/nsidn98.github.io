@@ -6,6 +6,7 @@ image: /images/graduate-school-applications.jpg
 tags:
   - graduate school
   - MIT
+  - memes
 ---
 ## How I got into MIT
 
