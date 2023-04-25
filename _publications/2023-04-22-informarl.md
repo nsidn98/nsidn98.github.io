@@ -1,9 +1,9 @@
 ---
 title: "Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation"
-collection: underreview
+collection: toappear
 permalink: /publication/informarl
 date: 2023-04-22
-venue: 'Under Review'
+venue: 'ICML'
 ---
 Authors: **Siddharth Nayak**, Kenneth Choi, Wenqi Ding, Sydney Dolan, Karthik Gopalakrishnan, Hamsa Balakrishnan
 
