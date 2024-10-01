@@ -13,7 +13,7 @@ body {
   
   /* Dark mode styles */
   body.dark-mode {
-    background-color: #121212;
+    background-color: #121212ab;
     color: #e0e0e0;
   }
   
@@ -28,5 +28,5 @@ body {
   }
   
   body.dark-mode a {
-    color: #bb86fc;
+    color: #1a0dab;
   }
