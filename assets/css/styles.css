@@ -1,22 +1,32 @@
-/* styles.css */
+/* assets/css/styles.css */
 
 /* Light mode styles */
 body {
-  background-color: #ffffff;
-  color: #000000;
-}
-
-/* Dark mode styles */
-body.dark-mode {
-  background-color: #121212;
-  color: #e0e0e0;
-}
-
-/* Additional styles for other elements as needed */
-a {
-  color: #1a0dab;
-}
-
-body.dark-mode a {
-  color: #bb86fc;
-}
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  header {
+    background-color: #f8f9fa; /* Light header background */
+    color: #000000;
+  }
+  
+  /* Dark mode styles */
+  body.dark-mode {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+  
+  body.dark-mode header {
+    background-color: #333333; /* Dark header background */
+    color: #e0e0e0;
+  }
+  
+  /* Additional styles for other elements as needed */
+  a {
+    color: #1a0dab;
+  }
+  
+  body.dark-mode a {
+    color: #bb86fc;
+  }
