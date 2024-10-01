@@ -9,9 +9,11 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <link rel="stylesheet" href="/assets/css/styles.css"> <!-- Link to styles.css -->
   </head>
 
   <body>
+    <button id="theme-toggle">Toggle Dark Mode</button> <!-- Dark mode toggle button -->
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -31,6 +33,23 @@ layout: compress
     {% include analytics.html %}
     {% endif %} -->
     {% include analytics.html %}
+
+    <script>
+      document.addEventListener('DOMContentLoaded', (event) => {
+        const toggleButton = document.getElementById('theme-toggle');
+        const currentTheme = localStorage.getItem('theme') || 'light';
+
+        if (currentTheme === 'dark') {
+          document.body.classList.add('dark-mode');
+        }
+
+        toggleButton.addEventListener('click', () => {
+          document.body.classList.toggle('dark-mode');
+          const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+          localStorage.setItem('theme', theme);
+        });
+      });
+    </script>
 
   </body>
 </html>
