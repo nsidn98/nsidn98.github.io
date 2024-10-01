@@ -16,9 +16,12 @@ My PhD thesis is on learning-based methods for multi-agent robotics focussing on
 - Long-horizon planning for multi-agent robotics
 - Creating human-interpretable communication protocols for MARL methods
 
-<span style="color:blue">**I am currently on the job market for 2025**</span>.
+**I am currently on the job market for 2025**.
 
-In addition to my research, I also like playing musical instruments like guitar, bass, piano, drums, recorder, sketching, astrophotography, playing tennis, badminton, cricket, swimming and going to the gym. You can find some of my guitar videos on [instagram](https://www.instagram.com/nsidn98_/).
+You can find my publications [here](https://nsidn98.github.io/publications/).
+
+In addition to my research, I like playing musical instruments like guitar, bass, piano, drums, recorder. You can find some of my guitar videos on [instagram](https://www.instagram.com/nsidn98_/).
+I am also into [sketching](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk), [astrophotography](https://docs.google.com/presentation/d/1IXEQaMT4YNwtfmGf4ktiFaTfVXWCZLqqv2AeThw02LI/edit?usp=sharing), playing tennis, badminton, cricket and swimming.
 
 ## Contact Me
 
