@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the AeroAstro Department at MIT. My research interest lies in multi-agent robotics especially in partially observable settings with limited communication bandwidth. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my research.
+Hello, I am currently a PhD candidate in the AeroAstro Department at MIT. My research interest lies in multi-agent robotics especially in partially observable settings with limited communication bandwidth. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my research.
 
 My PhD thesis is on learning-based methods for multi-agent robotics focussing on:
 

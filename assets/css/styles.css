@@ -55,3 +55,12 @@ body.dark-mode {
   body.dark-mode .theme-toggle {
     color: #e0e0e0;
   }
+
+  /* Media query for mobile devices */
+@media (max-width: 768px) {
+    .theme-toggle {
+      top: auto;
+      bottom: 10px;
+      right: 10px;
+    }
+  }
