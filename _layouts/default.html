@@ -15,7 +15,7 @@ layout: compress
   <body>
     <!-- Dark mode toggle button -->
     <button id="theme-toggle" class="theme-toggle">
-      <i id="theme-icon" class="fas fa-moon"></i>
+      <i class="fas fa-moon"></i>
     </button>
 
     {% include browser-upgrade.html %}
@@ -44,22 +44,12 @@ layout: compress
 
         if (currentTheme === 'dark') {
           document.body.classList.add('dark-mode');
-          themeIcon.classList.remove('fa-moon');
-          themeIcon.classList.add('fa-sun');
         }
 
         toggleButton.addEventListener('click', () => {
           document.body.classList.toggle('dark-mode');
           const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
           localStorage.setItem('theme', theme);
-
-          if (theme === 'dark') {
-            themeIcon.classList.remove('fa-moon');
-            themeIcon.classList.add('fa-sun');
-          } else {
-            themeIcon.classList.remove('fa-sun');
-            themeIcon.classList.add('fa-moon');
-          }
         });
       });
     </script>
