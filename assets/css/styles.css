@@ -17,7 +17,7 @@ body {
   
 /* Dark mode styles */
 body.dark-mode {
-    background-color: #1e1e1e; /* Dark background color */
+    background-color: #1e1e1eba; /* Dark background color */
     color: #dcdcdc; /* Soft white text color */
   }
   
@@ -61,6 +61,6 @@ body.dark-mode {
     .theme-toggle {
       top: auto;
       bottom: 10px;
-      right: 10px;
+      right: 50px;
     }
   }
