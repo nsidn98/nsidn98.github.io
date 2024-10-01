@@ -13,7 +13,7 @@ body {
   
   /* Dark mode styles */
   body.dark-mode {
-    background-color: #121212ab;
+    background-color: #121212;
     color: #e0e0e0;
   }
   
@@ -29,4 +29,21 @@ body {
   
   body.dark-mode a {
     color: #1a0dab;
+  }
+
+/* Style for the dark mode toggle button */
+.theme-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+    z-index: 1000;
+  }
+  
+  body.dark-mode .theme-toggle {
+    color: #e0e0e0;
   }
