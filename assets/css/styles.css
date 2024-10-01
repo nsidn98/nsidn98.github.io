@@ -11,15 +11,15 @@ body {
     color: #000000;
   }
   
-  /* Dark mode styles */
-  body.dark-mode {
-    background-color: #121212;
-    color: #e0e0e0;
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #1e1e1e; /* Dark background color */
+    color: #dcdcdc; /* Soft white text color */
   }
   
   body.dark-mode header {
-    background-color: #121212; /* Dark header background */
-    color: #e0e0e0;
+    background-color: #2c2c2c; /* Dark header background */
+    color: #dcdcdc;
   }
   
   /* Additional styles for other elements as needed */
@@ -28,7 +28,7 @@ body {
   }
   
   body.dark-mode a {
-    color: #1a0dab;
+    color: #bb86fc; /* Soft purple link color */
   }
 
 /* Style for the dark mode toggle button */
