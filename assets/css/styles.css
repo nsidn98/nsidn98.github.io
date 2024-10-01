@@ -10,6 +10,10 @@ body {
     background-color: #ffffff; /* Light header background */
     color: #000000;
   }
+
+  header nav ul li {
+    color: #000000; /* Light mode text color */
+  }
   
 /* Dark mode styles */
 body.dark-mode {
@@ -20,6 +24,10 @@ body.dark-mode {
   body.dark-mode header {
     background-color: #2c2c2c; /* Dark header background */
     color: #dcdcdc;
+  }
+
+  body.dark-mode header nav ul li {
+    color: #dcdcdc; /* Dark mode text color */
   }
   
   /* Additional styles for other elements as needed */
